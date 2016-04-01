@@ -1,5 +1,5 @@
 {"results": [
-  {"shortName":"EUR","longName":"Evra","value":141.9,"askValue":142.33,"bidValue":141.47,"changeCur":-0.14,"changePer":0},
+  {"shortName":"EUR","longName":"Evra","value":141.9,"askValue":142.33,"bidValue":141.47,"changeCur":-0.14,"changePer":0,"lastValues": ["142.10","141.80","141.80","141.80","141.45","141.30","141.25"]},
   {"shortName":"USD","longName":"Bandaríkjadalur","value":128.815,"askValue":129.2,"bidValue":128.43,"changeCur":0.05,"changePer":0},
   {"shortName":"GBP","longName":"Sterlingspund","value":180.475,"askValue":181.03,"bidValue":179.92,"changeCur":0.61,"changePer":0},
   {"shortName":"JPY","longName":"Japanskt jen","value":1.1414499999999999,"askValue":1.145,"bidValue":1.1379,"changeCur":-0.06,"changePer":-0.05},

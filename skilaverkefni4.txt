@@ -1,0 +1,2 @@
+1. MVC eða "Model View Controller" er í rauninni ákveðin uppsetning til þess að aðstoða með að hanna og skrifa kóða.
+Þetta er þá uppsett þannig að það er "Model" sem geymir og meðhöndlar gögn, "View" uppfærir þá það sem notandinn sér með gögnunum frá "Model" og svo að lokum er "Controller" sem sér um helstu vinnuna, tekur á móti gögnum og skilar svo skipunum til "Model" og/eða "View".
